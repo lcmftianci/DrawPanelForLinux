@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>add-line_horizontal.png</file>
+        <file>add-line_vertical.png</file>
+        <file>array_down.png</file>
+        <file>black.css</file>
+        <file>blue.css</file>
+        <file>checkbox_checked.png</file>
+        <file>checkbox_unchecked.png</file>
+        <file>error.png</file>
+        <file>Font Awesome Cheatsheet.png</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>gray.css</file>
+        <file>image.qrc</file>
+        <file>img4.jpg</file>
+        <file>info.png</file>
+        <file>navy.css</file>
+        <file>newBlack.css</file>
+        <file>qt_zh_CN.qm</file>
+        <file>question.png</file>
+        <file>radio_normal.png</file>
+        <file>radio_selected.png</file>
+        <file>sub-line_horizontal.png</file>
+        <file>sub-line_vertical.png</file>
+    </qresource>
+</RCC>
